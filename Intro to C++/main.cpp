@@ -13,6 +13,16 @@ int main()
 	std::cout << "\2" << std::endl;
 	std::cout << "\3" << std::endl;
 	std::cout << "\4" << std::endl;
-	std::cout << "\5" << std::endl;
+	std::cout << "\5\n" << std::endl;
+	
+	std::cout << "Top Five Games" << std::endl;
+	std::cout << "1. Digimon " << std::endl;
+	std::cout << "2. Evolution" << std::endl;
+	std::cout << "3. Blue Dragon" << std::endl;
+	std::cout << "4. Dragon Ball" << std::endl;
+	std::cout << "5. RSS" << std::endl;
+	
 	system("pause");
+
+	
 }
